@@ -20,6 +20,10 @@ A brief description of the different notebooks included in this repository:
 
 * [04.data_and_forecasts.ipynb](04.library_usage.ipynb): Shows the usage of the [IceNet library](https://github.com/icenet-ai/icenet) via its Python API.
 
+### Installation
+
+Have a working `icenet` environment that you can use, ideally from [the icenet pipeline](https://github.com/icenet-ai/icenet-pipeline), then install the requirements for notebooks with `pip install -r requirements.txt`.
+
 #### Status / Compatibility
 
 __These are compatible at time of writing with the 0.2.\* version of the [IceNet library](https://github.com/icenet-ai/icenet).__
