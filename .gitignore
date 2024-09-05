@@ -129,6 +129,8 @@ dmypy.json
 .pyre/
 
 /data
+/processed
+/processed_data
 
 # icenet run dirs
 *data
